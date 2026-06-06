@@ -1,0 +1,907 @@
+{
+  "nodeCount": 203769,
+  "iteration": 50,
+  "diff": 8.997e-07,
+  "topK": [
+    {
+      "rank": 1,
+      "vid": 24761,
+      "txId": "225859042",
+      "class": "unknown",
+      "pageRank": 0.0004743654,
+      "inDegree": 212,
+      "outDegree": 0
+    },
+    {
+      "rank": 2,
+      "vid": 51371,
+      "txId": "43388675",
+      "class": "2",
+      "pageRank": 0.0004707255,
+      "inDegree": 284,
+      "outDegree": 0
+    },
+    {
+      "rank": 3,
+      "vid": 157798,
+      "txId": "99409352",
+      "class": "2",
+      "pageRank": 0.000457186,
+      "inDegree": 19,
+      "outDegree": 0
+    },
+    {
+      "rank": 4,
+      "vid": 46397,
+      "txId": "179084283",
+      "class": "unknown",
+      "pageRank": 0.000445885,
+      "inDegree": 91,
+      "outDegree": 0
+    },
+    {
+      "rank": 5,
+      "vid": 148195,
+      "txId": "30276715",
+      "class": "2",
+      "pageRank": 0.0004206433,
+      "inDegree": 129,
+      "outDegree": 0
+    },
+    {
+      "rank": 6,
+      "vid": 31762,
+      "txId": "121801433",
+      "class": "unknown",
+      "pageRank": 0.000392833,
+      "inDegree": 71,
+      "outDegree": 0
+    },
+    {
+      "rank": 7,
+      "vid": 174185,
+      "txId": "91882349",
+      "class": "2",
+      "pageRank": 0.0003843487,
+      "inDegree": 100,
+      "outDegree": 1
+    },
+    {
+      "rank": 8,
+      "vid": 116675,
+      "txId": "163832295",
+      "class": "2",
+      "pageRank": 0.0003571206,
+      "inDegree": 36,
+      "outDegree": 0
+    },
+    {
+      "rank": 9,
+      "vid": 35892,
+      "txId": "96576418",
+      "class": "2",
+      "pageRank": 0.0003558354,
+      "inDegree": 239,
+      "outDegree": 0
+    },
+    {
+      "rank": 10,
+      "vid": 167220,
+      "txId": "73405590",
+      "class": "2",
+      "pageRank": 0.0003486189,
+      "inDegree": 73,
+      "outDegree": 0
+    },
+    {
+      "rank": 11,
+      "vid": 31690,
+      "txId": "121654821",
+      "class": "unknown",
+      "pageRank": 0.0003440549,
+      "inDegree": 154,
+      "outDegree": 2
+    },
+    {
+      "rank": 12,
+      "vid": 64727,
+      "txId": "339157927",
+      "class": "2",
+      "pageRank": 0.0003397522,
+      "inDegree": 21,
+      "outDegree": 1
+    },
+    {
+      "rank": 13,
+      "vid": 154471,
+      "txId": "149158766",
+      "class": "2",
+      "pageRank": 0.0003393022,
+      "inDegree": 148,
+      "outDegree": 0
+    },
+    {
+      "rank": 14,
+      "vid": 51437,
+      "txId": "68705820",
+      "class": "2",
+      "pageRank": 0.0003381617,
+      "inDegree": 247,
+      "outDegree": 0
+    },
+    {
+      "rank": 15,
+      "vid": 61,
+      "txId": "2758467",
+      "class": "2",
+      "pageRank": 0.0003344489,
+      "inDegree": 106,
+      "outDegree": 0
+    },
+    {
+      "rank": 16,
+      "vid": 148292,
+      "txId": "30699343",
+      "class": "2",
+      "pageRank": 0.0003343519,
+      "inDegree": 241,
+      "outDegree": 0
+    },
+    {
+      "rank": 17,
+      "vid": 178098,
+      "txId": "94940568",
+      "class": "unknown",
+      "pageRank": 0.0003283791,
+      "inDegree": 1,
+      "outDegree": 0
+    },
+    {
+      "rank": 18,
+      "vid": 116920,
+      "txId": "163887041",
+      "class": "unknown",
+      "pageRank": 0.0003277651,
+      "inDegree": 24,
+      "outDegree": 0
+    },
+    {
+      "rank": 19,
+      "vid": 151499,
+      "txId": "116179605",
+      "class": "2",
+      "pageRank": 0.000326197,
+      "inDegree": 35,
+      "outDegree": 0
+    },
+    {
+      "rank": 20,
+      "vid": 51567,
+      "txId": "43397277",
+      "class": "2",
+      "pageRank": 0.0003051427,
+      "inDegree": 182,
+      "outDegree": 0
+    },
+    {
+      "rank": 21,
+      "vid": 64667,
+      "txId": "340075634",
+      "class": "2",
+      "pageRank": 0.0003041452,
+      "inDegree": 11,
+      "outDegree": 0
+    },
+    {
+      "rank": 22,
+      "vid": 189738,
+      "txId": "196107869",
+      "class": "2",
+      "pageRank": 0.0002995366,
+      "inDegree": 188,
+      "outDegree": 0
+    },
+    {
+      "rank": 23,
+      "vid": 3,
+      "txId": "232438397",
+      "class": "2",
+      "pageRank": 0.0002971053,
+      "inDegree": 160,
+      "outDegree": 1
+    },
+    {
+      "rank": 24,
+      "vid": 116546,
+      "txId": "163832330",
+      "class": "2",
+      "pageRank": 0.0002955657,
+      "inDegree": 65,
+      "outDegree": 1
+    },
+    {
+      "rank": 25,
+      "vid": 126379,
+      "txId": "355110272",
+      "class": "1",
+      "pageRank": 0.0002883214,
+      "inDegree": 153,
+      "outDegree": 0
+    },
+    {
+      "rank": 26,
+      "vid": 120862,
+      "txId": "300413520",
+      "class": "2",
+      "pageRank": 0.0002830211,
+      "inDegree": 60,
+      "outDegree": 0
+    },
+    {
+      "rank": 27,
+      "vid": 58098,
+      "txId": "234890810",
+      "class": "unknown",
+      "pageRank": 0.0002797544,
+      "inDegree": 199,
+      "outDegree": 0
+    },
+    {
+      "rank": 28,
+      "vid": 184183,
+      "txId": "144222669",
+      "class": "unknown",
+      "pageRank": 0.0002665674,
+      "inDegree": 46,
+      "outDegree": 0
+    },
+    {
+      "rank": 29,
+      "vid": 126460,
+      "txId": "355174807",
+      "class": "unknown",
+      "pageRank": 0.0002627462,
+      "inDegree": 142,
+      "outDegree": 1
+    },
+    {
+      "rank": 30,
+      "vid": 157689,
+      "txId": "98056823",
+      "class": "2",
+      "pageRank": 0.00026265,
+      "inDegree": 22,
+      "outDegree": 1
+    },
+    {
+      "rank": 31,
+      "vid": 189774,
+      "txId": "66421580",
+      "class": "2",
+      "pageRank": 0.0002613119,
+      "inDegree": 53,
+      "outDegree": 0
+    },
+    {
+      "rank": 32,
+      "vid": 2074,
+      "txId": "92491280",
+      "class": "2",
+      "pageRank": 0.0002542222,
+      "inDegree": 1,
+      "outDegree": 1
+    },
+    {
+      "rank": 33,
+      "vid": 184152,
+      "txId": "156328432",
+      "class": "2",
+      "pageRank": 0.0002519111,
+      "inDegree": 81,
+      "outDegree": 0
+    },
+    {
+      "rank": 34,
+      "vid": 19182,
+      "txId": "90716926",
+      "class": "2",
+      "pageRank": 0.0002453405,
+      "inDegree": 150,
+      "outDegree": 0
+    },
+    {
+      "rank": 35,
+      "vid": 157162,
+      "txId": "98059174",
+      "class": "2",
+      "pageRank": 0.0002434052,
+      "inDegree": 26,
+      "outDegree": 1
+    },
+    {
+      "rank": 36,
+      "vid": 174356,
+      "txId": "91961924",
+      "class": "2",
+      "pageRank": 0.0002431992,
+      "inDegree": 88,
+      "outDegree": 3
+    },
+    {
+      "rank": 37,
+      "vid": 51392,
+      "txId": "68706499",
+      "class": "2",
+      "pageRank": 0.0002425872,
+      "inDegree": 178,
+      "outDegree": 0
+    },
+    {
+      "rank": 38,
+      "vid": 151548,
+      "txId": "115722990",
+      "class": "2",
+      "pageRank": 0.0002397627,
+      "inDegree": 50,
+      "outDegree": 0
+    },
+    {
+      "rank": 39,
+      "vid": 142171,
+      "txId": "200649629",
+      "class": "2",
+      "pageRank": 0.0002381605,
+      "inDegree": 45,
+      "outDegree": 2
+    },
+    {
+      "rank": 40,
+      "vid": 64984,
+      "txId": "339157945",
+      "class": "2",
+      "pageRank": 0.0002342213,
+      "inDegree": 33,
+      "outDegree": 1
+    },
+    {
+      "rank": 41,
+      "vid": 186960,
+      "txId": "94408492",
+      "class": "2",
+      "pageRank": 0.0002340917,
+      "inDegree": 2,
+      "outDegree": 1
+    },
+    {
+      "rank": 42,
+      "vid": 144307,
+      "txId": "45555339",
+      "class": "unknown",
+      "pageRank": 0.0002340753,
+      "inDegree": 3,
+      "outDegree": 0
+    },
+    {
+      "rank": 43,
+      "vid": 90821,
+      "txId": "99675435",
+      "class": "1",
+      "pageRank": 0.0002327343,
+      "inDegree": 158,
+      "outDegree": 0
+    },
+    {
+      "rank": 44,
+      "vid": 148166,
+      "txId": "30179316",
+      "class": "1",
+      "pageRank": 0.0002326432,
+      "inDegree": 177,
+      "outDegree": 0
+    },
+    {
+      "rank": 45,
+      "vid": 108984,
+      "txId": "269905668",
+      "class": "1",
+      "pageRank": 0.0002307071,
+      "inDegree": 173,
+      "outDegree": 0
+    },
+    {
+      "rank": 46,
+      "vid": 51493,
+      "txId": "43479990",
+      "class": "2",
+      "pageRank": 0.0002265729,
+      "inDegree": 72,
+      "outDegree": 0
+    },
+    {
+      "rank": 47,
+      "vid": 128489,
+      "txId": "355176021",
+      "class": "unknown",
+      "pageRank": 0.0002250169,
+      "inDegree": 1,
+      "outDegree": 1
+    },
+    {
+      "rank": 48,
+      "vid": 130726,
+      "txId": "96365231",
+      "class": "1",
+      "pageRank": 0.0002220655,
+      "inDegree": 166,
+      "outDegree": 0
+    },
+    {
+      "rank": 49,
+      "vid": 25030,
+      "txId": "225711361",
+      "class": "unknown",
+      "pageRank": 0.0002190423,
+      "inDegree": 167,
+      "outDegree": 0
+    },
+    {
+      "rank": 50,
+      "vid": 42926,
+      "txId": "191638565",
+      "class": "2",
+      "pageRank": 0.0002190388,
+      "inDegree": 10,
+      "outDegree": 2
+    },
+    {
+      "rank": 51,
+      "vid": 5318,
+      "txId": "205337217",
+      "class": "unknown",
+      "pageRank": 0.0002177715,
+      "inDegree": 1,
+      "outDegree": 1
+    },
+    {
+      "rank": 52,
+      "vid": 157815,
+      "txId": "97702602",
+      "class": "2",
+      "pageRank": 0.0002123084,
+      "inDegree": 25,
+      "outDegree": 1
+    },
+    {
+      "rank": 53,
+      "vid": 123546,
+      "txId": "379915858",
+      "class": "2",
+      "pageRank": 0.0002084725,
+      "inDegree": 18,
+      "outDegree": 0
+    },
+    {
+      "rank": 54,
+      "vid": 184305,
+      "txId": "156195763",
+      "class": "unknown",
+      "pageRank": 0.0002064393,
+      "inDegree": 55,
+      "outDegree": 0
+    },
+    {
+      "rank": 55,
+      "vid": 167016,
+      "txId": "73279924",
+      "class": "2",
+      "pageRank": 0.0002056002,
+      "inDegree": 76,
+      "outDegree": 0
+    },
+    {
+      "rank": 56,
+      "vid": 141868,
+      "txId": "70245040",
+      "class": "unknown",
+      "pageRank": 0.0002047043,
+      "inDegree": 133,
+      "outDegree": 1
+    },
+    {
+      "rank": 57,
+      "vid": 201346,
+      "txId": "157929208",
+      "class": "2",
+      "pageRank": 0.0002013272,
+      "inDegree": 152,
+      "outDegree": 0
+    },
+    {
+      "rank": 58,
+      "vid": 113398,
+      "txId": "87722775",
+      "class": "unknown",
+      "pageRank": 0.0002011218,
+      "inDegree": 3,
+      "outDegree": 0
+    },
+    {
+      "rank": 59,
+      "vid": 31566,
+      "txId": "121855456",
+      "class": "2",
+      "pageRank": 0.0002010191,
+      "inDegree": 89,
+      "outDegree": 0
+    },
+    {
+      "rank": 60,
+      "vid": 148312,
+      "txId": "30151745",
+      "class": "2",
+      "pageRank": 0.0002007974,
+      "inDegree": 120,
+      "outDegree": 1
+    },
+    {
+      "rank": 61,
+      "vid": 86490,
+      "txId": "209837677",
+      "class": "2",
+      "pageRank": 0.0002007522,
+      "inDegree": 124,
+      "outDegree": 0
+    },
+    {
+      "rank": 62,
+      "vid": 186083,
+      "txId": "156341160",
+      "class": "2",
+      "pageRank": 0.0002006606,
+      "inDegree": 1,
+      "outDegree": 1
+    },
+    {
+      "rank": 63,
+      "vid": 90,
+      "txId": "2881273",
+      "class": "2",
+      "pageRank": 0.0002001642,
+      "inDegree": 143,
+      "outDegree": 0
+    },
+    {
+      "rank": 64,
+      "vid": 142054,
+      "txId": "64364849",
+      "class": "2",
+      "pageRank": 0.0001999996,
+      "inDegree": 64,
+      "outDegree": 0
+    },
+    {
+      "rank": 65,
+      "vid": 141861,
+      "txId": "200990304",
+      "class": "2",
+      "pageRank": 0.000196206,
+      "inDegree": 66,
+      "outDegree": 0
+    },
+    {
+      "rank": 66,
+      "vid": 157385,
+      "txId": "97702586",
+      "class": "2",
+      "pageRank": 0.0001960523,
+      "inDegree": 10,
+      "outDegree": 1
+    },
+    {
+      "rank": 67,
+      "vid": 94320,
+      "txId": "372745794",
+      "class": "1",
+      "pageRank": 0.0001952534,
+      "inDegree": 139,
+      "outDegree": 0
+    },
+    {
+      "rank": 68,
+      "vid": 198364,
+      "txId": "45766",
+      "class": "2",
+      "pageRank": 0.000194726,
+      "inDegree": 98,
+      "outDegree": 7
+    },
+    {
+      "rank": 69,
+      "vid": 184484,
+      "txId": "121225693",
+      "class": "2",
+      "pageRank": 0.0001941868,
+      "inDegree": 88,
+      "outDegree": 0
+    },
+    {
+      "rank": 70,
+      "vid": 167189,
+      "txId": "73227485",
+      "class": "2",
+      "pageRank": 0.0001934303,
+      "inDegree": 94,
+      "outDegree": 2
+    },
+    {
+      "rank": 71,
+      "vid": 129401,
+      "txId": "355176026",
+      "class": "unknown",
+      "pageRank": 0.0001929471,
+      "inDegree": 1,
+      "outDegree": 0
+    },
+    {
+      "rank": 72,
+      "vid": 151519,
+      "txId": "115268291",
+      "class": "2",
+      "pageRank": 0.0001923993,
+      "inDegree": 38,
+      "outDegree": 1
+    },
+    {
+      "rank": 73,
+      "vid": 198399,
+      "txId": "2268197",
+      "class": "unknown",
+      "pageRank": 0.0001913855,
+      "inDegree": 121,
+      "outDegree": 0
+    },
+    {
+      "rank": 74,
+      "vid": 184168,
+      "txId": "156313815",
+      "class": "2",
+      "pageRank": 0.0001912489,
+      "inDegree": 95,
+      "outDegree": 1
+    },
+    {
+      "rank": 75,
+      "vid": 94316,
+      "txId": "373077919",
+      "class": "2",
+      "pageRank": 0.0001902429,
+      "inDegree": 34,
+      "outDegree": 0
+    },
+    {
+      "rank": 76,
+      "vid": 151484,
+      "txId": "116898498",
+      "class": "2",
+      "pageRank": 0.0001873613,
+      "inDegree": 124,
+      "outDegree": 0
+    },
+    {
+      "rank": 77,
+      "vid": 6858,
+      "txId": "205336060",
+      "class": "unknown",
+      "pageRank": 0.0001867885,
+      "inDegree": 1,
+      "outDegree": 1
+    },
+    {
+      "rank": 78,
+      "vid": 198380,
+      "txId": "13168555",
+      "class": "2",
+      "pageRank": 0.0001863206,
+      "inDegree": 47,
+      "outDegree": 0
+    },
+    {
+      "rank": 79,
+      "vid": 64565,
+      "txId": "339175100",
+      "class": "unknown",
+      "pageRank": 0.0001861998,
+      "inDegree": 127,
+      "outDegree": 0
+    },
+    {
+      "rank": 80,
+      "vid": 86,
+      "txId": "2881274",
+      "class": "2",
+      "pageRank": 0.0001853597,
+      "inDegree": 97,
+      "outDegree": 0
+    },
+    {
+      "rank": 81,
+      "vid": 157323,
+      "txId": "80664766",
+      "class": "2",
+      "pageRank": 0.0001830482,
+      "inDegree": 82,
+      "outDegree": 0
+    },
+    {
+      "rank": 82,
+      "vid": 154375,
+      "txId": "149569098",
+      "class": "2",
+      "pageRank": 0.0001827813,
+      "inDegree": 116,
+      "outDegree": 0
+    },
+    {
+      "rank": 83,
+      "vid": 193289,
+      "txId": "3510576",
+      "class": "2",
+      "pageRank": 0.000181678,
+      "inDegree": 97,
+      "outDegree": 0
+    },
+    {
+      "rank": 84,
+      "vid": 141811,
+      "txId": "200032559",
+      "class": "2",
+      "pageRank": 0.0001777146,
+      "inDegree": 64,
+      "outDegree": 2
+    },
+    {
+      "rank": 85,
+      "vid": 62396,
+      "txId": "347550863",
+      "class": "2",
+      "pageRank": 0.0001770711,
+      "inDegree": 126,
+      "outDegree": 0
+    },
+    {
+      "rank": 86,
+      "vid": 161712,
+      "txId": "12806113",
+      "class": "2",
+      "pageRank": 0.0001756627,
+      "inDegree": 118,
+      "outDegree": 0
+    },
+    {
+      "rank": 87,
+      "vid": 94540,
+      "txId": "373081058",
+      "class": "2",
+      "pageRank": 0.0001755238,
+      "inDegree": 50,
+      "outDegree": 0
+    },
+    {
+      "rank": 88,
+      "vid": 58132,
+      "txId": "235011536",
+      "class": "2",
+      "pageRank": 0.0001747686,
+      "inDegree": 45,
+      "outDegree": 0
+    },
+    {
+      "rank": 89,
+      "vid": 184782,
+      "txId": "156227730",
+      "class": "2",
+      "pageRank": 0.0001741975,
+      "inDegree": 43,
+      "outDegree": 0
+    },
+    {
+      "rank": 90,
+      "vid": 167136,
+      "txId": "29359565",
+      "class": "2",
+      "pageRank": 0.0001736699,
+      "inDegree": 93,
+      "outDegree": 0
+    },
+    {
+      "rank": 91,
+      "vid": 184189,
+      "txId": "11193869",
+      "class": "2",
+      "pageRank": 0.0001733585,
+      "inDegree": 93,
+      "outDegree": 1
+    },
+    {
+      "rank": 92,
+      "vid": 148189,
+      "txId": "29131565",
+      "class": "2",
+      "pageRank": 0.0001730416,
+      "inDegree": 90,
+      "outDegree": 0
+    },
+    {
+      "rank": 93,
+      "vid": 186084,
+      "txId": "90534834",
+      "class": "2",
+      "pageRank": 0.0001722443,
+      "inDegree": 1,
+      "outDegree": 0
+    },
+    {
+      "rank": 94,
+      "vid": 189722,
+      "txId": "3509407",
+      "class": "2",
+      "pageRank": 0.000171624,
+      "inDegree": 90,
+      "outDegree": 1
+    },
+    {
+      "rank": 95,
+      "vid": 189776,
+      "txId": "14950377",
+      "class": "2",
+      "pageRank": 0.0001713161,
+      "inDegree": 97,
+      "outDegree": 6
+    },
+    {
+      "rank": 96,
+      "vid": 136338,
+      "txId": "67627706",
+      "class": "2",
+      "pageRank": 0.0001711939,
+      "inDegree": 84,
+      "outDegree": 0
+    },
+    {
+      "rank": 97,
+      "vid": 193261,
+      "txId": "178102917",
+      "class": "2",
+      "pageRank": 0.0001707965,
+      "inDegree": 93,
+      "outDegree": 1
+    },
+    {
+      "rank": 98,
+      "vid": 141949,
+      "txId": "200067272",
+      "class": "2",
+      "pageRank": 0.0001687714,
+      "inDegree": 67,
+      "outDegree": 2
+    },
+    {
+      "rank": 99,
+      "vid": 174250,
+      "txId": "95009059",
+      "class": "2",
+      "pageRank": 0.0001687033,
+      "inDegree": 29,
+      "outDegree": 0
+    },
+    {
+      "rank": 100,
+      "vid": 100244,
+      "txId": "332771446",
+      "class": "1",
+      "pageRank": 0.0001681768,
+      "inDegree": 116,
+      "outDegree": 0
+    }
+  ]
+}
